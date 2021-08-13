@@ -5,7 +5,7 @@ package gradle.java.test.project;
 
 public class App {
     public String getGreeting() {
-        return "Hello world.";
+        return "Hello vibs.";
     }
 
     public static void main(String[] args) {
